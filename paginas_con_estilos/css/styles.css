@@ -1,0 +1,54 @@
+body{
+    background-color: #ffd700;
+}
+#h1-ejercicio1, .p-ejercicio1{
+    color:#8a2be2;
+}
+#p-ej1{
+    color:#8a2be2;
+    font-style: italic;
+}
+.body-ejercicio3{
+    background-color:white;
+}
+.p-ejercicio3{
+    font-style: normal;
+    text-align: center;
+}
+#p-ejercicio3{
+    font-style: normal;
+    text-align:justify;
+    color:blue;
+}
+#p-eje3{
+    background-color: black;
+    text-align:justify;
+    font-style:normal;
+    color: white;
+}
+#p-ej3{
+    text-align:justify;
+    font-style:italic;
+
+}
+#p-ejerc3{
+    color: red;
+    font-size:xx-large;
+    font-weight: bold;
+    text-align:left;
+    size: 10px;
+}
+#p-ejerci3{
+    text-align: center;
+    font-size: small;
+}
+.body-ejercicio4{
+    background-color: aqua;
+    
+}
+#h3-ejercicio4,#h3-ejerci4,#h3-ejer4{
+    color:red;
+}
+#p-ejercicio4,#p-ejerci4,#p-ejer4,#p-ej4,#li-ejercicio4,#li-ejerci4,#li-ejer4{
+    color:blue;
+}
